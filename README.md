@@ -8,4 +8,10 @@ There are some project in my University
 - "L" to save game
 - "T" to load game
 - "P" or ESC to pause game
-
+3. Link List
+4. Queue and Stack
+5. Recursion
+Some basic problem:
+- Knight
+- Queen 
+- HaNoi Tower
